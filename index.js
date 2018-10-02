@@ -1,1 +1,5 @@
-class BoardMember 
+class BoardMember {
+  constructor {
+    
+  }
+}
